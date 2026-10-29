@@ -53,7 +53,10 @@ Post only where the maintainer has shown interest in native touch / HID:
 
 | Date | Channel | Link | Response |
 |---|---|---|---|
-| 2026-10-29 | GitHub repo + discussion | (fill after creation) | — |
-| 2026-10-29 | AnyDisplay issue | (fill) | — |
-| 2026-10-29 | Topti issue | (fill) | — |
-| 2026-10-29 | HIDTouch issue | (fill) | — |
+| 2026-10-29 | GitHub repo + discussion | https://github.com/glasses666/macos27-external-touch/discussions/1 | — |
+| 2026-10-29 | AnyDisplay issue | https://github.com/efekurucay/anydisplay/issues/1 | — |
+| 2026-10-29 | Topti issue | https://github.com/Yukaii/topti/issues/1 | — |
+| 2026-10-29 | HIDTouch issue | https://github.com/koshi545/HIDTouch/issues/2 | — |
+| — | Apple Developer Forums | pending | — |
+| — | Reddit / HN / X | pending | — |
+| — | V2EX / 酷安 / Bilibili | pending | — |
